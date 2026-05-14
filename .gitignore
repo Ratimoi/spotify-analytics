@@ -1,0 +1,76 @@
+# ----------------
+# Python cache
+# ----------------
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# ----------------
+# Virtual Environment
+# ----------------
+
+venv/
+.env/
+.venv/
+
+
+# ----------------
+# Jupyter
+# ----------------
+
+.ipynb_checkpoints/
+
+
+# ----------------
+# VS Code
+# ----------------
+
+.vscode/
+
+
+# ----------------
+# PyCharm
+# ----------------
+
+.idea/
+
+
+# ----------------
+# Sistema Operacional
+# ----------------
+
+.DS_Store
+Thumbs.db
+
+
+# ----------------
+# Logs
+# ----------------
+
+*.log
+
+
+# ----------------
+# Arquivos temporários
+# ----------------
+
+*.tmp
+*.temp
+
+
+# ----------------
+# Build
+# ----------------
+
+build/
+dist/
+
+
+# ----------------
+# Arquivos exportados
+# ----------------
+
+outputs/
+exports/
